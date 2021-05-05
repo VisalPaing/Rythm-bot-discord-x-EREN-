@@ -1,0 +1,22 @@
+{
+  "token": "YOUR TOKN BOT",
+  "prefix": "YOUR PREFIX",
+  "ksoftapi": "YOUR KSOFT API",
+  
+  
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "localhost",
+         "port": 2333,
+         "password": "youshallnotpass"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "",
+    "clientID": ""
+  }
+
+}
